@@ -121,3 +121,4 @@ def main():
     print("Done.")
     time.sleep(2)
     input("Press enter to exit...\n")
+main()
